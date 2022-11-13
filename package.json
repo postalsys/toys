@@ -1,6 +1,6 @@
 {
-  "name": "@hapipal/toys",
-  "version": "3.1.0",
+  "name": "@postalsys/toys",
+  "version": "3.1.0-fork.1",
   "description": "The hapi utility toy chest",
   "main": "lib/index.js",
   "engines": {
@@ -34,7 +34,7 @@
     "@hapi/hoek": "9.x.x"
   },
   "peerDependencies": {
-    "@hapi/hapi": ">=19 <21"
+    "@hapi/hapi": ">=19 <=21"
   },
   "peerDependenciesMeta": {
     "@hapi/hapi": {
